@@ -1,2 +1,2 @@
-# Primeiro repositório Front End
-Nesse repositório estou colocando em prática os aprendizados de manipualção e estilização das páginas de um site utilizando de HTML e CSS, aplicando também os conhecimentos dos comandos do Git
+# SITE DE BARBEARIA
+Nesse reposítório pude colocar em prática os conhecimentos dos comandos no git para trazer esse projeto e também aprendi sobre as tags e posicionamento e linkagem do HTML e CSS.
